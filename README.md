@@ -1,5 +1,3 @@
-# Verificar o motivo da imagem não atualizar quando subo o k8s. Não está carregando os endpoints de /healthy
-
 # spring-actuator-4-k8s-demo
 Spring actuator demo for usage with K8s
 
