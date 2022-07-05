@@ -29,7 +29,7 @@ After [building the image](#build), execute:
 
 ```
 docker build -t spring-actuator-4-k8s-demo .
-kubectl apply -f k8s/deployment.yml 
+kubectl apply -f k8s/deployment.yaml 
 ```
 
 #### Fixing minikube errors:
